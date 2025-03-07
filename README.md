@@ -1,1 +1,2 @@
-I made this project by following this course on udemy: https://www.udemy.com/course/building-microservices-with-spring-boot-and-spring-cloud/?couponCode=25BBPMXACCAGE2
+# Employee Management System - Microservices Architecture
+> I have built this project by following this udemy course: [udemy link](https://www.udemy.com/course/building-microservices-with-spring-boot-and-spring-cloud/)
